@@ -1,0 +1,3 @@
+# shahinday
+A terminal based game written in Python. Extend it and contribute! Put together very quickly, no comments, but kind-of self-documenting...
+
